@@ -6,8 +6,11 @@
     <td>1
     <td>Agreement of Charter
   <tr>
-    <td>2
-    <td>
+    <td>2a
+    <td>Release and Waiver of Liability
+  <tr>
+    <td>2b
+    <td>Release and Waiver of Right of Publicity
   <tr>
     <td>3
     <td>
