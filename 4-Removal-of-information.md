@@ -1,0 +1,23 @@
+[Your Name]
+[Your Address]
+[City, State Zip Code]
+[Your Email Address]
+[Today's Date]
+
+The History Club
+Palo Alto CA 94306
+
+Dear Sir/Madam,
+
+I am writing to request the removal of my personal information from your website/company database. 
+
+The personal information in question includes [describe the information that you want to be removed such as your name, address, phone number, email address, etc.].
+
+I understand that you may have obtained this information through various means, such as registration on your website or through a purchase. However, I believe that my privacy rights should be respected and protected, and I am requesting the immediate removal of my personal information from your website/company database.
+
+Please confirm in writing that my personal information has been removed from your website/company database. Also, please provide me with the assurance that my personal information will not be shared or sold to any third party.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+[Your Name]
